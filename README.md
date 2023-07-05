@@ -13,7 +13,7 @@ Junte-se a nós enquanto exploramos as fronteiras da inovação e desvendamos as
 ![GIF](https://github.com/arielklxto/Blog_Codar/blob/main/img/blog_tecpro_gif.gif)
 
 # Tecnologias utilizadas
-- HTML / CSS / PHP BootStrap
+- HTML / CSS / PHP / BootStrap
   
 # Autora
 Ariel Calixto
